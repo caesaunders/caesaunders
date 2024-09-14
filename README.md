@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Caitlin</h1>
-<h3 align="left">A designer and developer looking to join aesthetics and technology.</h3>
+<h1 align="left">🪐Caitlin Saunders</h1>
+**`A designer and developer looking to join aesthetics and technology`**
 
 - 👨‍💻 All of my projects are available at [caitlinesaunders.com](caitlinesaunders.com)
 
 - 📝 I post project walkthroughs and thoughts on [https://medium.com/@caesaunders](https://medium.com/@caesaunders)
-
+--- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
