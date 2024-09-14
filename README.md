@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Caitlin</h1>
-<h3 align="center">A designer and developer looking to join aesthetics and technology.</h3>
+<h1 align="left">Hi 👋, I'm Caitlin</h1>
+<h3 align="left">A designer and developer looking to join aesthetics and technology.</h3>
 
 - 👨‍💻 All of my projects are available at [caitlinesaunders.com](caitlinesaunders.com)
 
-- 📝 I regularly write articles on [https://medium.com/@caesaunders](https://medium.com/@caesaunders)
+- 📝 I post project walkthroughs and thoughts on [https://medium.com/@caesaunders](https://medium.com/@caesaunders)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
