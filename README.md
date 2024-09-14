@@ -1,5 +1,5 @@
 <h1 align="left">🪐Caitlin Saunders</h1>
-**`A designer and developer looking to join aesthetics and technology`**
+`A designer and developer looking to join aesthetics and technology`
 
 - 👨‍💻 All of my projects are available at [caitlinesaunders.com](caitlinesaunders.com)
 
