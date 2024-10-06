@@ -7,6 +7,7 @@
 --- 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Value of a Non-Technical Role](https://medium.com/@caesaunders/exploring-the-value-of-a-non-technical-role-79d2f68b895e?source=rss-b45fe3f768f2------2)
 <!-- BLOG-POST-LIST:END -->
 --- 
 <h3 align="left">Connect with me:</h3>
