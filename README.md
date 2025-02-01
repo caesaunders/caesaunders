@@ -1,7 +1,7 @@
 <h1 align="left">🪐Caitlin Saunders</h1>
 <code>A designer and developer looking to join aesthetics and technology</code>
 
-- 👨‍💻 All of my projects are available at [caitlinesaunders.com](caitlinesaunders.com)
+- 👨‍💻 All of my projects are available at [caitlinesaunders.com](https.//caitlinesaunders.com)
 
 - 📝 I post project walkthroughs and thoughts on [https://medium.com/@caesaunders](https://medium.com/@caesaunders)
 --- 
